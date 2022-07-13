@@ -1,6 +1,6 @@
 # Skeleton-of-Web-HTML-TEXT-Article-
 
-You can read about it on <a href='https://medium.com/@mshayanb/creation-making-of-artificial-intelligence-1de8a3f1a851'>my article</a> , on medium.
+You can read about it on <a href='https://mshayanb.medium.com/skeleton-of-web-html-text-p-1-76c8ed282436'>my article</a> , on medium.
 the html code i used for explaining the topics is uploaded on Github! 
 
 Thank you!
